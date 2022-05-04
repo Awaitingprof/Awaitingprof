@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ebenezer. @Awaitingprof
+- 👋 Hi, I’m Ebenezer. 
 - 👀 I’m a Data analyst, and a data science and machine learning enthusiast.
 I enjoy working with different types of data and discovering what is hidden therein, as well as bringing out insights from them and translating them into meaningful information to make data-driven decisions.
 - 🌱 I’m skilled in Excel, SQL,Power Bi and SPSS.I'm working on project on them. I'm currently learning Python.
