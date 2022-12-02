@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Ebenezer Adebiyi.
 ## 👀  Data analyst and Data Scientist.
- I am passionate about anything that involve data and research. I am a recipent of Black in Technology Scholarship.I enjoy working with different types of data and discovering what is hidden therein, as well as bringing out insights from it and translating it into meaningful information to make right decisions.
+ I am passionate about anything that involve data and research.
+ A recipent of Black in Technology Scholarship.
+ I enjoy working with different types of data and discovering what is hidden therein, as well as bringing out insights from it and translating it into meaningful information to make right decisions.
  - I'm based in Lagos, Nigeria. 
  - see my portfolio at https://linkr.ee/ebenezer416 
  
