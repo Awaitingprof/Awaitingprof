@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ebenezer Adebiyi.
+# 👋 Hi, I’m Ebenezer Adebiyi, the Laconic data
 ## 👀  Data analyst and Data Scientist.
  I am passionate about anything that involve data and research.
  A recipent of Black in Technology Scholarship.
