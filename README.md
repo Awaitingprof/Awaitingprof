@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ebenezer Adebiyi, the Laconic data
 ## 👀  Data analyst and Data Scientist.
  I am passionate about anything that involve data and research.
- A recipent of Black in Technology Scholarship.
+ A recipent of Black in Technology Scholarship in partnership with Google.
  I enjoy working with different types of data and discovering what is hidden therein, as well as bringing out insights from it and translating it into meaningful information to make right decisions.
  - I'm based in Lagos, Nigeria. 
  - see my portfolio at https://linkr.ee/ebenezer416 
