@@ -7,7 +7,7 @@
  - see my portfolio at https://linkr.ee/ebenezer416 
  
  ## skills
- Microsoft excel, SQL, Python, Power BI, Tableau,SPSS
+ Microsoft Excel, SQL, Python, Power BI, Tableau,SPSS and Alteryx
 - 💞️ I’m looking forward to collaborating on projects that can contribute to my development. I'm open to opportunities to work with any organization where I can provide valuable insight to make the right decision.
 - 📫 Do you want to work with me or discuss some of my projects with me ? or if you have any sugesssions,Please, Do not hesitate to reach me on Ebenezerdadebiyi@gmail.com.
 
