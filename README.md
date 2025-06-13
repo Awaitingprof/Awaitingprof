@@ -1,16 +1,24 @@
-# 👋 Hi, I’m Ebenezer Adebiyi, the Laconic data
-## 👀  Data analyst and Data Scientist.
- I am passionate about anything that involve data and research.
- A recipent of Black in Technology Scholarship in partnership with Google.
- I enjoy working with different types of data and discovering what is hidden therein, as well as bringing out insights from it and translating it into meaningful information to make right decisions.
- - I'm based in Lagos, Nigeria. 
- - see my portfolio at https://linkr.ee/ebenezer416 
- 
- ## skills
- Microsoft Excel, SQL, Python, Power BI, Tableau,SPSS and Alteryx
-- 💞️ I’m looking forward to collaborating on projects that can contribute to my development. I'm open to opportunities to work with any organization where I can provide valuable insight to make the right decision.
-- 📫 Do you want to work with me or discuss some of my projects with me ? or if you have any sugesssions,Please, Do not hesitate to reach me on Ebenezerdadebiyi@gmail.com.
+# 👋 Hi, I’m Ebenezer Adebiyi. 
+## 👀  Data Scientist  | Data Analyst  | Research-Driven Professional
 
+I’m passionate about all things data and research. I thrive on working with diverse datasets—exploring patterns, uncovering insights, and translating data into meaningful information that drives informed decision-making.
+
+I have a solid foundation in both analysis and research, I enjoy solving real-world problems by combining domain knowledge, statistical thinking, and powerful tools.
+ - 📍 Based in Lagos, Nigeria
+ - 🔗 Explore my portfolio:  https://linkr.ee/ebenezer416 
+ 
+ ##  Tech Stack & Tools
+ Python • SQL • Power BI • Tableau • Excel  • SPSS
+ 
+💡 Driven by curiosity, powered by data.
+
+- 💞️ I’m open to collaborative projects, freelance work, and full-time opportunities. I look forward to contributing to impactful data projects and working with organisations where I can provide actionable insights and continue growing as a professional.
+
+
+- 📫 Get in Touch
+Interested in working together, discussing my projects, or sharing suggestions?
+Feel free to reach out — I’m always open to meaningful conversations and collaboration.
+📧 ebenezerdadebiyi@gmail.com
 <!---
 Awaitingprof/Awaitingprof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
