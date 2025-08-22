@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Ebenezer Adebiyi. 
-## 👀  Data Scientist  | Data Analyst  | Research-Driven Professional
+##  Data Scientist & Analyst | AI & ML | Business Intelligence | Research 
 
-I’m passionate about all things data and research. I thrive on working with diverse datasets, exploring patterns, uncovering insights, and translating data into meaningful information that drives informed decision-making.
+I’m passionate about all things data and research. I thrive on working with diverse datasets, exploring patterns, deriving insights, and translating data into meaningful information that drives informed decision-making.
 
-I have a solid foundation in both analysis and research, and I enjoy solving real-world problems by combining domain knowledge, statistical thinking, and powerful tools.
+I have a solid foundation in Data Science, analysis, and research, and I enjoy solving real-world problems by combining domain knowledge, statistical thinking, and powerful tools.
  - 📍 Based in Lagos, Nigeria
  - 🔗 Explore my portfolio:  https://linkr.ee/ebenezer416 
  
